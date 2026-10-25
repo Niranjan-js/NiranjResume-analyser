@@ -1,0 +1,20 @@
+{
+  "name": "ai-career-copilot",
+  "version": "1.0.0",
+  "description": "AI Career Copilot - Resume & Job Description Analyzer powered by Google Gemini API & Autonomous Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gemini-api",
+    "prompt-engineering",
+    "career-copilot",
+    "ats-resume-scanner",
+    "vercel",
+    "autonomous-engine"
+  ],
+  "author": "",
+  "license": "MIT"
+}
